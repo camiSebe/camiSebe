@@ -27,7 +27,7 @@ I'm **Camila Belén Sebellin**, a final-year Software Engineering student at the
 
 - 📬 Email: [camilasebellin@gmail.com](mailto:camilasebellin@gmail.com)  
 - 💼 LinkedIn: [/camila-belén-sebellin-6158a11a4](https://www.linkedin.com/in/camila-belén-sebellin-6158a11a4)  
-- 🖥 Resume: [https://github.com/camiSebe](https://camisebe.github.io/resume-website/)
+- 🖥 Resume: [camisebe.github.io/resume-website/](https://camisebe.github.io/resume-website/)
 
 ---
 
