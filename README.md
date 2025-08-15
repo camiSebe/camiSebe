@@ -16,9 +16,12 @@ I'm **Camila Belén Sebellin**, a final-year Software Engineering student at the
 ### 🛠️ Skills
 
 **Languages & Tools**  
-`Python` • `C++` • `Java` • `C` • `SQL` • `Ruby` • `Rust` • `Docker` • `Kubernetes` • `Selenium`
+`Python` • `C++` • `Java` • `C` • `SQL` • `Rust` • `Ruby` • `HTML` • `CSS` • `JavaScript` • `Docker` • `Kubernetes` • `Selenium`
 
-**Techniques**  
+**Frameworks**  
+`React` • `NestJS`
+
+**Techniques & Methodologies**  
 `OOP` • `TDD` • `DDD` • `Scrum` • `Agile`
 
 ---
@@ -26,7 +29,7 @@ I'm **Camila Belén Sebellin**, a final-year Software Engineering student at the
 ### 🌐 Connect with Me
 
 - 📬 Email: [camilasebellin@gmail.com](mailto:camilasebellin@gmail.com)  
-- 💼 LinkedIn: [/camila-belén-sebellin-6158a11a4](https://www.linkedin.com/in/camila-belén-sebellin-6158a11a4)  
+- 💼 LinkedIn: [linkedin.com/in/camila-sebellin](https://www.linkedin.com/in/camila-sebellin)  
 - 🖥 Resume: [camisebe.github.io/resume-website/](https://camisebe.github.io/resume-website/)
 
 ---
