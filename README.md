@@ -47,19 +47,6 @@ I enjoy solving **complex technical problems and turning them into reliable prod
 
 ---
 
-## 💼 Experience
-
-**Software Engineer — Wúru (HealthTech)**  
-Sep 2025 — Present
-
-- End-to-end development of product features
-- Backend services with **Python + FastAPI**
-- **PostgreSQL data modeling**
-- Frontend development and refactoring
-- Integrations with healthcare clients and hospital systems
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
