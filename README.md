@@ -1,37 +1,67 @@
-## 👋 Hi there!
+# Camila Sebellin
 
-I'm **Camila Belén Sebellin**, a final-year Software Engineering student at the Faculty of Engineering, University of Buenos Aires (UBA), Argentina. I'm passionate about building impactful tech solutions and excited to contribute to innovative software projects.
+Software Engineer building scalable backend and full-stack systems.  
+Computer Engineering student at the University of Buenos Aires (UBA).
 
----
-
-### 👩‍💻 About Me
-
-- 🎓 Currently finishing my degree in Software Engineering at **UBA**.
-- 💡 Strong interest in backend development, cloud technologies, and software design.
-- 🧠 Passionate about applying **TDD**, **DDD**, and **Agile** methodologies to solve real-world problems.
-- 🌍 Native Spanish speaker, fluent in English.
+Currently working in HealthTech, developing software that helps hospitals manage and optimize surgical scheduling.
 
 ---
 
-### 🛠️ Skills
+## 🛠 What I Do
 
-**Languages & Tools**  
-`Python` • `C++` • `Java` • `C` • `SQL` • `Rust` • `Ruby` • `HTML` • `CSS` • `JavaScript` • `Docker` • `Kubernetes` • `Selenium`
+- Design and build **scalable backend services**
+- Develop **end-to-end product features**
+- Model **relational databases and APIs**
+- Improve **system architecture and performance**
 
-**Frameworks**  
-`React` • `NestJS`
+Tech I work with most often:
 
-**Techniques & Methodologies**  
-`OOP` • `TDD` • `DDD` • `Scrum` • `Agile`
-
----
-
-### 🌐 Connect with Me
-
-- 📬 Email: [camilasebellin@gmail.com](mailto:camilasebellin@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/camila-sebellin](https://www.linkedin.com/in/camila-sebellin)  
-- 🖥 Resume: [camisebe.github.io/resume-website/](https://camisebe.github.io/resume-website/)
+`Python` `FastAPI` `PostgreSQL` `TypeScript` `React` `Docker` `Kubernetes`
 
 ---
 
-Thanks for stopping by! 😊
+## 💼 Experience
+
+**Software Engineer — Wúru (HealthTech)**  
+Sep 2025 — Present
+
+- End-to-end development of product features
+- Backend services with **Python + FastAPI**
+- **PostgreSQL data modeling and API design**
+- Frontend development and refactoring
+- Integrations with hospital systems and healthcare clients
+
+---
+
+## 🎓 Education
+
+**Computer Engineering**  
+University of Buenos Aires (UBA)
+
+- 56 courses completed  
+- GPA: 6.71  
+- Thesis expected: June 2026
+
+---
+
+## 🧠 Interests
+
+- Distributed systems
+- Backend architecture
+- Scalable APIs
+- Cloud infrastructure
+- Data-intensive systems
+
+---
+
+## 🔗 Links
+
+- LinkedIn → https://linkedin.com/in/camila-sebellin  
+- GitHub → https://github.com/camiSebe
+
+---
+
+## 📊 GitHub
+
+![stats](https://github-readme-stats.vercel.app/api?username=camiSebe&show_icons=true&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiSebe&layout=compact&hide_border=true)
