@@ -60,50 +60,6 @@ Sep 2025 — Present
 
 ---
 
-## 🎓 Education
-
-**Computer Engineering**  
-University of Buenos Aires (UBA)
-
-- 56 courses completed  
-- GPA: 6.71  
-- Thesis expected: June 2026
-
----
-
-## 🧠 Interests
-
-- Distributed Systems  
-- Backend Architecture  
-- Scalable APIs  
-- Cloud Infrastructure  
-- Data-intensive Systems
-
----
-
-## 🚀 Selected Projects
-
-### Distributed Movie Ratings System
-Fault-tolerant distributed system for large-scale movie ratings analysis.
-
-Tech: `Python` `RabbitMQ` `Docker`
-
----
-
-### Jazz Jackrabbit Emulator
-Backend development for a classic platformer emulator.
-
-Tech: `C++` `SDL2`
-
----
-
-### CRM REST API
-Backend service for customer management.
-
-Tech: `Java` `Spring` `PostgreSQL`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
