@@ -107,17 +107,10 @@ Tech: `Java` `Spring` `PostgreSQL`
 ## 📊 GitHub Stats
 
 <p align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=camiSebe&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=camiSebe&show_icons=true&theme=transparent&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiSebe&layout=compact&theme=transparent&hide_border=true" height="150"/>
+![](https://nirzak-streak-stats.vercel.app/?user=camiSebe&theme=radical&hide_border=false)<br/>
 
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
