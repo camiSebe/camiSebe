@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Camila 👋</h1>
 
 <p align="center">
-Software Engineer building scalable backend and full-stack systems  
+Software Engineer building scalable backend and full-stack systems | 
 Computer Engineering @ University of Buenos Aires (UBA)
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/camila-sebellin">LinkedIn</a> •
-<a href="mailto:camilasebellin@gmail.com">Email</a> •
-<a href="https://github.com/camiSebe">GitHub</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/camisebellin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camila-sebellin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:camilasebellin@gmail.com) 
 </p>
 
 ---
